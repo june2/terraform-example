@@ -2,6 +2,7 @@
 
 Repository for multiple cloud infrastructure code using terraform
 - Terraform v1.3.6 (on darwin_arm64)
+- [m1 terraform 바이너리 이슈](https://www.binaryflavor.com/m1-baineoriga-jegongdoeji-anhneun/)
 
 
 ## support infrastructure
