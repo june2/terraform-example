@@ -12,7 +12,7 @@ Repository for multiple cloud infrastructure code using terraform
 
 
 ## CLI 
-sh```
+```sh
 $ terraform -chdir=example/ecr init           
 $ terraform -chdir=example/ecr plan
 $ terraform -chdir=example/ecr apply
